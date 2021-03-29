@@ -26,5 +26,8 @@ _italic_
     
 https://www.aabu.edu.jo/EN/Pages/default.aspx
 
+~~this~~
+
+<del>aseel<del>
 
 ![Cute](https://miro.medium.com/max/1838/1*mk1-6aYaf_Bes1E3Imhc0A.jpeg)
