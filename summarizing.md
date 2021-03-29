@@ -23,10 +23,11 @@ the shell is a part of the operating system that defines how the terminal will b
 
 
 Basic Navigation:
-```
+```bash
 Ls / cd / pwd / mkdiv / touch / mv / rm.
 pwd
 /home/aseel
 ```
 
 
+[my summary](https://raw.githubusercontent.com/Aseel-Dweedar/reading-notes/main/summarizing.md)
