@@ -1,4 +1,4 @@
-##Choosing A Text Editor:##
+##Choosing A Text Editor:
 
 the writer said that is text editors are all pretty similar, and the best text editor is the one that you enjoy using the most.
 he summarized the features should you look for in a text editor:
@@ -15,7 +15,7 @@ finally, he mentioned The Difference Between Text Editors and IDEs, the text edi
 
 
 
-###The Command Line:###
+###The Command Line:
 
 A command line, is a text based interface to the system. You are able to enter commands by typing them on the keyboard and feedback will be given to you similarly as text. presents you with a prompt. As you type, it will be displayed after the prompt. 
 the shell is a part of the operating system that defines how the terminal will behave and looks after running commands for you. 
