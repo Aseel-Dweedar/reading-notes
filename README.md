@@ -34,7 +34,7 @@
 |`learns from critcism`|`ignores usefu feedback` |
 |`inspired by other's success`|`Feels threatened by others` |
 
-<img src="https://safety4sea.com/wp-content/uploads/2019/04/fixed-growth-mindset.png" alt="" style="width:700px;"/>
+<img src="https://safety4sea.com/wp-content/uploads/2019/04/fixed-growth-mindset.png" alt="" style="width:300px;"/>
 
 ## 3- About me and you
 ```
