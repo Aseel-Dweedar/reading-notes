@@ -13,4 +13,4 @@
 |2|  [Choosing your Text Editor](https://github.com/Aseel-Dweedar/reading-notes/blob/main/summarizing.md)  |
 |3|[GROWTH MINDSET](https://github.com/Aseel-Dweedar/reading-notes/blob/main/Growth%20mindset.md)|
 |4|[Get started with coding](https://github.com/Aseel-Dweedar/reading-notes/blob/main/Get%20started%20with%20coding.md)|
-|4|[Markdown](https://github.com/Aseel-Dweedar/reading-notes/blob/main/Get%20started%20with%20coding.md)|
+|4|[Markdown](https://github.com/Aseel-Dweedar/reading-notes/blob/main/Markdown.md)|
