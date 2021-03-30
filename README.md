@@ -1,4 +1,4 @@
-
+<https://aseel-dweedar.github.io/reading-notes/>
 
 
 ![growth midset](https://www.piperandgold.com/sites/default/files/pg.blogpostheadercassie.5.1.19-01.png)
@@ -14,7 +14,7 @@
 
 |1|2|3|
 |-|-|-|
-|`Properties of the growth mindset`     |`GROWTH mindset VS FIXED MINDSET` |`about me and you`
+|`Properties of the growth mindset`|`GROWTH mindset VS FIXED MINDSET`|`about me and you`|
 
 
 
@@ -32,7 +32,7 @@
 |-|-|
 |`Embraces challenges`|`Avoids challenges` |
 |`learns from critcism`|`ignores useful feedback` |
-|`inspired by other's success`|`Feels threatened by others` |
+|`inspired by other's success`|`Feels threatened by others`|
 
 <img src="https://safety4sea.com/wp-content/uploads/2019/04/fixed-growth-mindset.png" alt="" style="width:150px;"/>
 
