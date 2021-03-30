@@ -48,3 +48,6 @@ remember :
 
 
 [For more inforomations](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+
+
+*let me see you at* : <https://github.com/Aseel-Dweedar/reading-notes>
