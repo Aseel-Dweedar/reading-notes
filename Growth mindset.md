@@ -1,4 +1,4 @@
-<https://aseel-dweedar.github.io/reading-notes/>
+<https://github.com/Aseel-Dweedar/reading-notes/blob/main/Growth%20mindset.md>
 
 
 ![growth midset](https://www.piperandgold.com/sites/default/files/pg.blogpostheadercassie.5.1.19-01.png)
