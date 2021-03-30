@@ -5,7 +5,7 @@
 
 
 
-# GROWTH MINSET #
+# GROWTH MINDSET #
 
 >Demonstrated by commitment to continuous improvement through adaptability, optimism, curiosity, and openness to feedback.
 
@@ -14,7 +14,7 @@
 
 |1|2|3|
 |-|-|-|
-|`Properties of the growth mindset`     |`GROWTH minset VS FIXED MIDSET` |`about me and you`
+|`Properties of the growth mindset`     |`GROWTH mindset VS FIXED MINDSET` |`about me and you`
 
 
 
@@ -27,11 +27,11 @@
 
 
 
-## 1- Growth minset VS Fixed midset
-|Growth minset|Fixed midset|
+## 1- Growth mindset VS Fixed midset
+|Growth mindset|Fixed midset|
 |-|-|
 |`Embraces challenges`|`Avoids challenges` |
-|`learns from critcism`|`ignores usefu feedback` |
+|`learns from critcism`|`ignores useful feedback` |
 |`inspired by other's success`|`Feels threatened by others` |
 
 <img src="https://safety4sea.com/wp-content/uploads/2019/04/fixed-growth-mindset.png" alt="" style="width:150px;"/>
@@ -47,7 +47,7 @@ remember :
 ```
 
 
-[For more inforomations](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+[For more information](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
 
 
 *let me see you at* : <https://github.com/Aseel-Dweedar/reading-notes>
