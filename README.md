@@ -10,12 +10,12 @@ Maybe you would like to check my profile to know more about me, [ASEEL DWEEDAR](
 ### KEEP FOLLOWING :
 
 
-|figure|subject|
+|||
 |--|--|
 |1|[Reading Notes](https://aseel-dweedar.github.io/reading-notes/)|
 |2|  [Choosing your Text Editor](https://aseel-dweedar.github.io/reading-notes/choosing-a-text-editor)|
-|3|[Growth mindset](https://aseel-dweedar.github.io/reading-notes/choosing-a-text-editor)|
+|3|[Growth mindset](https://aseel-dweedar.github.io/reading-notes/growth-mindset)|
 |4|[Get started with coding](https://aseel-dweedar.github.io/reading-notes/get-started-with-coding)|
-|4|[Markdown](https://aseel-dweedar.github.io/reading-notes/get-started-with-coding)|
+|4|[Markdown](https://aseel-dweedar.github.io/reading-notes/Markdown)|
 
 
