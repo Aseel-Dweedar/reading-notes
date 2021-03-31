@@ -28,4 +28,4 @@ Ls / cd / pwd / mkdiv / touch / mv / rm.
 ```
 
 
-[my summary](https://github.com/Aseel-Dweedar/reading-notes/blob/main/summarizing.md)
+**Go back -->** [Reading Notes](https://aseel-dweedar.github.io/reading-notes/)

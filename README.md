@@ -1,6 +1,5 @@
 # WELCOME TO ASEEL DWEEDAR' s READING NOTES ..
-![Future](https://images-na.ssl-images-amazon.com/images/I/91eNs%2BqyCVL._SL1500_.jpg
-)
+![Future](https://blog.coursify.me/wp-content/uploads/2018/01/elearning-market-in-brazil-cover.jpg)
 
 
 
@@ -13,10 +12,10 @@ Maybe you would like to check my profile to know more about me, [ASEEL DWEEDAR](
 
 |figure|subject|
 |--|--|
-|1|[Home page](https://aseel-dweedar.github.io/reading-notes/)|
-|2|  [Choosing your Text Editor](https://github.com/Aseel-Dweedar/reading-notes/blob/main/Choosing%20A%20Text%20Editor.md)  |
-|3|[GROWTH MINDSET](https://github.com/Aseel-Dweedar/reading-notes/blob/main/Growth%20mindset.md)|
-|4|[Get started with coding](https://github.com/Aseel-Dweedar/reading-notes/blob/main/Get%20started%20with%20coding.md)|
-|4|[Markdown](https://github.com/Aseel-Dweedar/reading-notes/blob/main/Markdown.md)|
+|1|[Reading Notes](https://aseel-dweedar.github.io/reading-notes/)|
+|2|  [Choosing your Text Editor](https://aseel-dweedar.github.io/reading-notes/choosing-a-text-editor)|
+|3|[Growth mindset](https://aseel-dweedar.github.io/reading-notes/choosing-a-text-editor)|
+|4|[Get started with coding](https://aseel-dweedar.github.io/reading-notes/get-started-with-coding)|
+|4|[Markdown](https://aseel-dweedar.github.io/reading-notes/get-started-with-coding)|
 
 

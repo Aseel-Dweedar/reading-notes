@@ -60,3 +60,6 @@ Example :To check settings, use the (`git config --list`) command.
 - [ ] Check your Version Control.
 - [ ] Knew the usage of Git.
 - [ ] Start working in basics.
+
+
+**Go back -->** [Reading Notes](https://aseel-dweedar.github.io/reading-notes/)
