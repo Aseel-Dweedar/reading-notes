@@ -1,5 +1,5 @@
 # HTML
-
+![html](https://cdn3.f-cdn.com/files/download/90046415/html-trick.jpg)
 
 ## Structure:
 
@@ -44,28 +44,26 @@ The value is the information or setting for the attribute. It should be placed i
      2. Contain a number of inline elements.
 
 * **\<iframe>** An iframe is like a little window that has been cut into your page — and in that window you can see another page. The term iframe is an abbreviation of inline frame.
-![ifram](./images/Capture2.png)
 
 
 * Escape characters are used to include special characters in your pages such as <, >, and ©.
-![ifram](./images/Capture3.png)
+
 
 # HTML5 Layout:
 **HTML5 introduces a new set of elements that allow you to divide up the parts of a page.**
 
-1. Headers & Footers <header\> <footer\>
-2. Navigation <nav\>
-3. Articles <article\>
-4. Article <aside\>
-5. Sections <section\>
-6. Heading groups <hgroup\>
-7. Figures <figure\> <figcaption\>
-8. Sectioning Elements <div\>
+* Headers & Footers <header\> <footer\>
+* Navigation <nav\>
+* Articles <article\>
+* Article <aside\>
+* Sections <section\>
+* Heading groups <hgroup\>
+* Figures <figure\> <figcaption\>
+* Sectioning Elements <div\>
 
 # Process  &  Design
-```
+
 1. Study your audience.
 2. Site Maps, organize the information into sections or pages.
 3. Create WireFrame, It shows the hierarchy of the information and how much space it might require.
 4. Study the elements of design, Organizing and prioritizing information on a page helps users understand its importance and what order to read it in.
-```
