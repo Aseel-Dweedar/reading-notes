@@ -1,7 +1,6 @@
+# GET STARTED WITH CODING ...
 
-# GET STARTED WITH CODING
-
-![coding](https://www.learnacademy.org/wp-content/uploads/2020/06/Beginners-Coding-Guide_-How-Do-I-Get-Started-in-Coding.jpg)
+![coding](https://miro.medium.com/max/2800/1*cHjv2c-OLqfwIp0MY_NxWw.png)
 
 
 ## TABLE OF CONTENTS: 
