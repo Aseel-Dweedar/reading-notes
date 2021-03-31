@@ -3,7 +3,7 @@
 ![coding](https://miro.medium.com/max/2800/1*cHjv2c-OLqfwIp0MY_NxWw.png)
 
 
-## TABLE OF CONTENTS: 
+## CONTENTS: 
 *Check your Version Control*
 
 *About Git*

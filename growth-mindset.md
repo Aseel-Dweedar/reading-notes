@@ -11,13 +11,13 @@
 
 ***We will you find here :***
 
-|1|2|3|
-|-|-|-|
-|Properties of the growth mindset|GROWTH mindset VS FIXED MINDSET|about me and you|
+* Properties of the growth mindset
+* GROWTH mindset VS FIXED MINDSET
+* about me and you
 
 
 
-## 2- Properties of the growth mindset 
+## 1- Properties of the growth mindset 
 
 * Adaptability
 * Ambition and Initiative
@@ -26,7 +26,7 @@
 
 
 
-## 1- Growth mindset VS Fixed midset
+## 2- Growth mindset VS Fixed midset
 |Growth mindset|Fixed midset|
 |-|-|
 |Embraces challenges|Avoids challenges|

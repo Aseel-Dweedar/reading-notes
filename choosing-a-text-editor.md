@@ -9,7 +9,7 @@ he summarized the features should you look for in a text editor:
 4. the ability to choose from a healthy selection of extensions.
 
 
->and explain every one of them. then explain that the text editors that already come on computers don't support these features. and gave some names of text editors that you can download on the computer that gives you all of these features.
+and explain every one of them. then explain that the text editors that already come on computers don't support these features. and gave some names of text editors that you can download on the computer that gives you all of these features.
 he mentioned Notepad++, Text Wrangler, BB Edit, Visual Studio Code, Atom, Brackets, and Sublime Text. and talk about every one of them to help you chose.
 finally, he mentioned The Difference Between Text Editors and IDEs, the text editor manages text, and manages files. but IDE's are an Integrated Development Environment, different software all coming together.
 

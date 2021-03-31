@@ -17,5 +17,6 @@ Maybe you would like to check my profile to know more about me, [ASEEL DWEEDAR](
 |3|[Growth mindset](https://aseel-dweedar.github.io/reading-notes/growth-mindset)|
 |4|[Get started with coding](https://aseel-dweedar.github.io/reading-notes/get-started-with-coding)|
 |4|[Markdown](https://aseel-dweedar.github.io/reading-notes/Markdown)|
+|5|[HTML](https://aseel-dweedar.github.io/reading-notes/html)|
 
 

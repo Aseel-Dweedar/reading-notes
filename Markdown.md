@@ -14,7 +14,7 @@ to write using an easy-to-read, easy-to-write plain text format.
 |--|--|--|
 |bold|\*\*bold**|**bold**|
 |italic|\*italic*|*italic*|
-|bold & italic|\*\*\*bold & italic***|***bold & italic***|
+|bold & italic|\*\*\*bold & italic*\*\*|***bold & italic***|
 
 \# Text  = H1
 
