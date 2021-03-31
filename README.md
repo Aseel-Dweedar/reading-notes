@@ -1,9 +1,13 @@
-
-![Future](https://i.pinimg.com/originals/23/05/35/230535d2013c6b8f34e2304d050df22f.jpg
+# WELCOME TO ASEEL DWEEDAR' s READING NOTES ..
+![Future](https://images-na.ssl-images-amazon.com/images/I/91eNs%2BqyCVL._SL1500_.jpg
 )
 
-# FUTURE SUMMARY JUST DOWN HERE ...
 
+
+My name is Aseel Dweedar, an ordinary person trying to change.
+Maybe you would like to check my profile to know more about me, [ASEEL DWEEDAR](https://github.com/Aseel-Dweedar).
+
+## FUTURE SUMMARY JUST DOWN HERE ...
 ### KEEP FOLLOWING :
 
 
@@ -14,3 +18,5 @@
 |3|[GROWTH MINDSET](https://github.com/Aseel-Dweedar/reading-notes/blob/main/Growth%20mindset.md)|
 |4|[Get started with coding](https://github.com/Aseel-Dweedar/reading-notes/blob/main/Get%20started%20with%20coding.md)|
 |4|[Markdown](https://github.com/Aseel-Dweedar/reading-notes/blob/main/Markdown.md)|
+
+
