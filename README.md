@@ -1,5 +1,5 @@
 # WELCOME TO ASEEL DWEEDAR' s READING NOTES ..
-![Future](https://blog.coursify.me/wp-content/uploads/2018/01/elearning-market-in-brazil-cover.jpg)
+![Future](https://res.cloudinary.com/karl-tech/image/upload/v1504037663/ethereum-coffee-roach_aajijn.jpg)
 
 
 
@@ -18,5 +18,7 @@ Maybe you would like to check my profile to know more about me, [ASEEL DWEEDAR](
 |4|[Get started with coding](https://aseel-dweedar.github.io/reading-notes/get-started-with-coding)|
 |4|[Markdown](https://aseel-dweedar.github.io/reading-notes/Markdown)|
 |5|[HTML](https://aseel-dweedar.github.io/reading-notes/html)|
+|6|[Javascript](https://aseel-dweedar.github.io/reading-notes/javascript)|
+
 
 
