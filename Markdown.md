@@ -10,24 +10,26 @@ to write using an easy-to-read, easy-to-write plain text format.
 # common MarkDowns
 
 ## *Text:*
+
 |Syntax|Format|Result|
---|--|--
-bold|\*\*bold\*\*|**bold**
+|--|--|--|
+|bold|\*\*bold\*\*|**bold**|
 italic|\*italic\*|*italic*
 bold and italic|\*\*\*bold and italic\*\*\*|***bold and italic***
 
-\# Text  = H1
+```
+# Text  = H1
 
-\## Text  = H2
+## Text  = H2
 
-\### Text  = H3
+### Text  = H3
 
-\#### Text  = H4
+#### Text  = H4
 
-\##### Text  = H5
+##### Text  = H5
 
-\###### Text  = H6
-
+###### Text  = H6
+```
 
 ## *Images:*
 
