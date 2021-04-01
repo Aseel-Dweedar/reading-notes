@@ -27,11 +27,14 @@
 
 
 ## 2- Growth mindset VS Fixed midset
+
 |Growth mindset|Fixed midset|
-|-|-|
+|--|--|
 |Embraces challenges|Avoids challenges|
 |learns from critcism|ignores useful feedback|
 |inspired by other's success|Feels threatened by others|
+
+
 
 <img src="https://safety4sea.com/wp-content/uploads/2019/04/fixed-growth-mindset.png" alt="" style="width:150px;"/>
 

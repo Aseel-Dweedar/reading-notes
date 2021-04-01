@@ -11,10 +11,10 @@ to write using an easy-to-read, easy-to-write plain text format.
 
 ## *Text:*
 |Syntax|Format|Result|
-|--|--|--|
-|bold|\*\*bold\*\*|**bold**|
-|italic|\*italic\*|*italic*|
-|bold and italic|\*\*\*bold and italic\*\*\*|***bold and italic***|
+--|--|--
+bold|\*\*bold\*\*|**bold**
+italic|\*italic\*|*italic*
+bold and italic|\*\*\*bold and italic\*\*\*|***bold and italic***
 
 \# Text  = H1
 

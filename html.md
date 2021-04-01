@@ -26,13 +26,13 @@ The value is the information or setting for the attribute. It should be placed i
 
 * If you want to add a **comment** to your code that will not be visible in the user's browser, you can add the text between these characters: 
 
-   \<!-- comment goes here -->
+    `<!-- comment goes here -->`
 
 * **id attribute & class attribute** used to uniquely identify that element from other elements on the page :
 
-    \<p id="pullquote">
+  `<p id="pullquote">`
 
-    \<p class="important">
+  `<p class="important">`
 
 
 * **\<div>** element allows you to group a set of elements together in one block-level box.
@@ -46,20 +46,20 @@ The value is the information or setting for the attribute. It should be placed i
 * **\<iframe>** An iframe is like a little window that has been cut into your page — and in that window you can see another page. The term iframe is an abbreviation of inline frame.
 
 
-* Escape characters are used to include special characters in your pages such as <, >, and ©.
+* Escape characters are used to include special characters in your pages such as: <, >, and ©.
 
 
 # HTML5 Layout:
 **HTML5 introduces a new set of elements that allow you to divide up the parts of a page.**
 
 * Headers & Footers <header\> <footer\>
-* Navigation <nav\>
-* Articles <article\>
-* Article <aside\>
-* Sections <section\>
-* Heading groups <hgroup\>
-* Figures <figure\> <figcaption\>
-* Sectioning Elements <div\>
+* Navigation `<nav\>`
+* Articles `<article\>`
+* Article `<aside\>`
+* Sections `<section\>`
+* Heading groups `<hgroup\>`
+* Figures `<figure\> <figcaption\>`
+* Sectioning Elements `<div\>`
 
 # Process  &  Design
 
@@ -67,3 +67,5 @@ The value is the information or setting for the attribute. It should be placed i
 2. Site Maps, organize the information into sections or pages.
 3. Create WireFrame, It shows the hierarchy of the information and how much space it might require.
 4. Study the elements of design, Organizing and prioritizing information on a page helps users understand its importance and what order to read it in.
+
+**Go back -->** [Reading Notes](https://aseel-dweedar.github.io/reading-notes/)
