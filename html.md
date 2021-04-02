@@ -53,13 +53,13 @@ The value is the information or setting for the attribute. It should be placed i
 **HTML5 introduces a new set of elements that allow you to divide up the parts of a page.**
 
 * Headers & Footers <header\> <footer\>
-* Navigation `<nav\>`
-* Articles `<article\>`
-* Article `<aside\>`
-* Sections `<section\>`
-* Heading groups `<hgroup\>`
-* Figures `<figure\> <figcaption\>`
-* Sectioning Elements `<div\>`
+* Navigation `<nav>`
+* Articles `<article>`
+* Article `<aside>`
+* Sections `<section>`
+* Heading groups `<hgroup>`
+* Figures `<figure> <figcaption>`
+* Sectioning Elements `<div>`
 
 # Process  &  Design
 

@@ -1,7 +1,8 @@
 # Choosing A Text Editor:
 
-the writer said that is text editors are all pretty similar, and the best text editor is the one that you enjoy using the most.
-he summarized the features should you look for in a text editor:
+***Text editors*** are all pretty similar, and the best text editor is the one that you enjoy using the most.
+
+***The features*** should you look for in a text editor:
 
 1. code completion.
 2. syntax highlighting.
@@ -9,9 +10,12 @@ he summarized the features should you look for in a text editor:
 4. the ability to choose from a healthy selection of extensions.
 
 
-and explain every one of them. then explain that the text editors that already come on computers don't support these features. and gave some names of text editors that you can download on the computer that gives you all of these features.
-he mentioned Notepad++, Text Wrangler, BB Edit, Visual Studio Code, Atom, Brackets, and Sublime Text. and talk about every one of them to help you chose.
-finally, he mentioned The Difference Between Text Editors and IDEs, the text editor manages text, and manages files. but IDE's are an Integrated Development Environment, different software all coming together.
+The text editors that already come on computers don't support these features. some of text editors that you can download on the computer can gives you all of these features.
+
+***For example:***
+**Notepad++, Text Wrangler, BB Edit, Visual Studio Code, Atom, Brackets, and Sublime Text.**
+
+***Text Editors VS IDEs:*** the text editor manages text, and manages files. but IDE's are an Integrated Development Environment, different software all coming together.
 
 
 
