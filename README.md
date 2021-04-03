@@ -12,8 +12,8 @@ Maybe you would like to check my profile to know more about me, [ASEEL DWEEDAR](
 
 |||
 |--|--|
-|1|[Reading Notes](README)|
-|2|  [Choosing your Text Editor](choosing-a-text-editor)|
+|1|[Reading Notes](https://aseel-dweedar.github.io/reading-notes/)|
+|2|[Choosing your Text Editor](choosing-a-text-editor)|
 |3|[Growth mindset](growth-mindset)|
 |4|[Get started with coding](get-started-with-coding)|
 |4|[Markdown](Markdown)|
