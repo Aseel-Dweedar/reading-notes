@@ -18,8 +18,8 @@ Maybe you would like to check my profile to know more about me, [ASEEL DWEEDAR](
 |4|[Get started with coding](get-started-with-coding)|
 |4|[Markdown](Markdown)|
 |5|[HTML](html)|
-|6|[Javascript](https://aseel-dweedar.github.io/reading-notes/javascript)|
-
+|6|[Expressions & function](https://aseel-dweedar.github.io/reading-notes/javascript)|
+|7|[Comparison & Loops](javascript2)|
 
 
 
