@@ -20,7 +20,7 @@ Maybe you would like to check my profile to know more about me, [ASEEL DWEEDAR](
 |5|[HTML](https://aseel-dweedar.github.io/reading-notes/html)|
 |6|[JS - Expressions & function](https://aseel-dweedar.github.io/reading-notes/javascript)|
 |7|[JS - Comparison & Loops](https://aseel-dweedar.github.io/reading-notes/javascript2)|
-|8|[CSS]()|
+|8|[CSS](https://aseel-dweedar.github.io/reading-notes/css)|
 
 
 
