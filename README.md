@@ -24,24 +24,26 @@ Maybe you would like to check my profile to know more about me, [ASEEL DWEEDAR](
 |7|[JS - Expressions & function](https://aseel-dweedar.github.io/reading-notes/javascript)|
 |8|[JS - Comparison & Loops](https://aseel-dweedar.github.io/reading-notes/javascript2)|
 |9|[CSS](https://aseel-dweedar.github.io/reading-notes/css)|
+
+
 <br/><br/>
 
 ## **Code 201 Reading Notes**
 
 |||
 |--|--|
-|1||
-|2||
-|3||
-|4||
-|5||
-|6||
-|7||
-|8||
-|9||
-|10||
-|11||
-|12||
-|13||
-|14||
-|15||
+|1|Read class 1|
+|2|Read class 2|
+|3|Read class 3|
+|4|Read class 4|
+|5|Read class 5|
+|6|Read class 6|
+|7|Read class 7|
+|8|Read class 8|
+|9|Read class 9|
+|10|Read class 10|
+|11|Read class 11|
+|12|Read class 12|
+|13|Read class 13|
+|14|Read class 14|
+|15|Read class 15|
