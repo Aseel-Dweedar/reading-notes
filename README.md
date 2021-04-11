@@ -9,6 +9,9 @@ Maybe you would like to check my profile to know more about me, [ASEEL DWEEDAR](
 ## FUTURE SUMMARY JUST DOWN HERE ...
 > KEEP FOLLOWING :
 
+<br/>
+
+## **Code 102 Reading Notes**
 
 |||
 |--|--|
@@ -16,11 +19,29 @@ Maybe you would like to check my profile to know more about me, [ASEEL DWEEDAR](
 |2|[Growth mindset](https://aseel-dweedar.github.io/reading-notes/growth-mindset)|
 |3|[Choosing your Text Editor](https://aseel-dweedar.github.io/reading-notes/choosing-a-text-editor)|
 |4|[Get started with coding](https://aseel-dweedar.github.io/reading-notes/get-started-with-coding)|
-|4|[Markdown](https://aseel-dweedar.github.io/reading-notes/Markdown)|
-|5|[HTML](https://aseel-dweedar.github.io/reading-notes/html)|
-|6|[JS - Expressions & function](https://aseel-dweedar.github.io/reading-notes/javascript)|
-|7|[JS - Comparison & Loops](https://aseel-dweedar.github.io/reading-notes/javascript2)|
-|8|[CSS](https://aseel-dweedar.github.io/reading-notes/css)|
+|5|[Markdown](https://aseel-dweedar.github.io/reading-notes/Markdown)|
+|6|[HTML](https://aseel-dweedar.github.io/reading-notes/html)|
+|7|[JS - Expressions & function](https://aseel-dweedar.github.io/reading-notes/javascript)|
+|8|[JS - Comparison & Loops](https://aseel-dweedar.github.io/reading-notes/javascript2)|
+|9|[CSS](https://aseel-dweedar.github.io/reading-notes/css)|
+<br/><br/>
 
+## **Code 201 Reading Notes**
 
-
+|||
+|--|--|
+|1||
+|2||
+|3||
+|4||
+|5||
+|6||
+|7||
+|8||
+|9||
+|10||
+|11||
+|12||
+|13||
+|14||
+|15||
