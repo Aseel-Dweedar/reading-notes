@@ -32,7 +32,7 @@ Maybe you would like to check my profile to know more about me, [ASEEL DWEEDAR](
 
 |||
 |--|--|
-|1|Read class 1|
+|1|[Class-01 Summarizes ](class-01.md)|
 |2|[Class-02 Summarizes ](class-02.md)|
 |3|Read class 3|
 |4|Read class 4|
