@@ -116,7 +116,7 @@ A script is a series of instructions that a computer can follow to achieve a goa
 **To design the secript** 
 You can use flowcharts to work out how the tasks fit together. The flowcharts show the paths between each step.
 
-![flowcharts](./flowcharts.PNG)
+![flowcharts](./img/flowcharts.PNG)
 
 ## - How do computers fit in the world around them
 
