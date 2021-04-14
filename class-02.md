@@ -42,7 +42,7 @@ structure of your web pages.
 |Tag|Usage|Example|
 |--|--|--|
 |`<strong>`|show the contents in bold|`<strong>`Important`</strong>`class <br> <strong>Important</strong> class|
-|<em>|show the contents in italic|My name is `<em>`Aseel`</em>` <br> My name is <em>Aseel</em>|
+|`<em>`|show the contents in italic|My name is `<em>`Aseel`</em>` <br> My name is <em>Aseel</em>|
 ||||
 
 
