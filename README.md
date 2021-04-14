@@ -19,7 +19,7 @@ Maybe you would like to check my profile to know more about me, [ASEEL DWEEDAR](
 |2|[Growth mindset](https://aseel-dweedar.github.io/reading-notes/growth-mindset)|
 |3|[Choosing your Text Editor](https://aseel-dweedar.github.io/reading-notes/choosing-a-text-editor)|
 |4|[Get started with coding](https://aseel-dweedar.github.io/reading-notes/get-started-with-coding)|
-|5|[Markdown](https://aseel-dweedar.github.io/reading-notes/Markdown)|
+|5|[MARKDOWN](https://aseel-dweedar.github.io/reading-notes/Markdown)|
 |6|[HTML](https://aseel-dweedar.github.io/reading-notes/html)|
 |7|[JS - Expressions & function](https://aseel-dweedar.github.io/reading-notes/javascript)|
 |8|[JS - Comparison & Loops](https://aseel-dweedar.github.io/reading-notes/javascript2)|
@@ -36,7 +36,7 @@ Maybe you would like to check my profile to know more about me, [ASEEL DWEEDAR](
 |2|[Class-02 Summarizes ](class-02.md)|
 |3|[Class-03 Summarizes ](class-03.md)|
 |4|[Class-04 Summarizes ](class-04.md)|
-|5|Read class 5|
+|5|[Class-05 Summarizes ](class-05.md)|
 |6|Read class 6|
 |7|Read class 7|
 |8|Read class 8|
