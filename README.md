@@ -38,7 +38,7 @@ Maybe you would like to check my profile to know more about me, [ASEEL DWEEDAR](
 |4|[Class-04 Summarizes ](class-04.md)|
 |5|[Class-05 Summarizes ](class-05.md)|
 |6|[Class-06 Summarizes ](class-06.md)|
-|7|Read class 7|
+|7|[Class-07 Summarizes ](class-07.md)|
 |8|Read class 8|
 |9|Read class 9|
 |10|Read class 10|
