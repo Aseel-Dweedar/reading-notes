@@ -1,5 +1,5 @@
 # IMAGES -HTML
-![imageTag](https://lh3.googleusercontent.com/proxy/Aje2H_cMsOjgv2rTCH1Mv7Ws1s8RP22v6c4cPZ3SPEhxpURKEiNPj-GJoeLLzGqsLt6usRp4ZLa23JLKTPHDFcT8wiwpV6OHeog8HR_lgUZ7-lArA-Q)
+
 
 ## --> Adding Images
 To add an image into the page you need to use an `<img>` element. It must carry the following two attributes:
