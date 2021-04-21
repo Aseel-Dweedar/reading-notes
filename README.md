@@ -32,18 +32,19 @@ Maybe you would like to check my profile to know more about me, [ASEEL DWEEDAR](
 
 |||
 |--|--|
-|1|[Class-01 Summarizes ](class-01.md)|
-|2|[Class-02 Summarizes ](class-02.md)|
-|3|[Class-03 Summarizes ](class-03.md)|
-|4|[Class-04 Summarizes ](class-04.md)|
-|5|[Class-05 Summarizes ](class-05.md)|
-|6|[Class-06 Summarizes ](class-06.md)|
-|7|[Class-07 Summarizes ](class-07.md)|
-|8|[Class-08 Summarizes ](class-08.md)|
-|9|[Class-09 Summarizes ](class-09.md)|
-|10|Read class 10|
+|1|[Review ](class-01.md)|
+|2|[TEXT- HTML <br> INTRODUCING -CSS <br> Review -JS](class-02.md)|
+|3|[LISTS -HTML <br> BOXES -CSS <br> ARRAY & LOOP -JS ](class-03.md)|
+|4|[LINKS -HTML <br> LAYOUT -CSS <br> FUNCTION -JS <br> 6 Reasons for Pair Programming](class-04.md)|
+|5|[IMAGES -HTML <br> COLOR & TEXT -CSS <br> JPEG vs PNG vs GIF ](class-05.md)|
+|6|[OBJECT & (DOM) -JS <br> Problem Domain ](class-06.md)|
+|7|[TABLES -HTML <br> OBJECTS -JS ](class-07.md)|
+|8|[LAYOUT -CSS ](class-08.md)|
+|9|[FORMS -HTML <br> LIST & TABLE & FORMS -CSS <br> EVENT -JS ](class-09.md)|
+|10|[ERROR HANDLING & DEBUGGING -JS ](class-10.md)|
 |11|Read class 11|
 |12|Read class 12|
 |13|Read class 13|
 |14|Read class 14|
 |15|Read class 15|
+
