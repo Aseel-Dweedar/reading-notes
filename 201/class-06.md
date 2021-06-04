@@ -23,11 +23,11 @@ variables and functions take on new names.
 * IN AN OBJECT: VARIABLES BECOME KNOWN AS **PROPERTIES**.
 * IN AN OBJECT: FUNCTIONS BECOME KNOWN AS **METHODS**.
 
-![object](./img/object.PNG)
+![object](../img/object.PNG)
 
 You access the proprties or methods of an object using dot notation. and you can also acces properties using square brackets.
 
-![callOb](./img/objectCall.PNG)
+![callOb](../img/objectCall.PNG)
 
 # Document Object Model (DOM)
 
@@ -35,7 +35,7 @@ As a browser loads a web page, it creates a model of that page.
 The model is called a **DOM tree**, and it is stored in the browsers' memory.
 It consists of four main types of **nodes**. 
 
-![domTree](./img/DOM-Tree.png)
+![domTree](../img/DOM-Tree.png)
 
 Scripts access and update this DOM tree (not the source HTML file).
 Any changes made to the DOM tree are reflected in the browser.
@@ -55,7 +55,7 @@ DOM queries may return one element, or they may return a Nodelist, which is a co
 - getElementByld('id')
 - querySelector('css selector')
 
-![single](./img/select1.PNG)
+![single](../img/select1.PNG)
 
 **METHODS THAT RETURN ONE OR MORE ELEMENTS:**
 
@@ -63,7 +63,7 @@ DOM queries may return one element, or they may return a Nodelist, which is a co
 - getElementsByTagName('tagName') 
 - querySelectorAll ('css select or')
 
-![mult](./img/select2.PNG)
+![mult](../img/select2.PNG)
 
 ## Repeating actions for an entire nodelist
 

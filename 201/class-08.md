@@ -51,7 +51,7 @@ If you want to control which element sits on top, you can use the z-index proper
 
 The float property allows you to take an element in normal flow and place it as far to the left or right of the containing element as possible. Anything else that sits inside the containing element will flow **around** the element that is floated.
 
-![flout](./img/float.png)
+![flout](../img/float.png)
 
 > **Note** : When you use the float property, you should also use the width property to indicate how wide the floated element should be
 
@@ -67,7 +67,7 @@ The following three CSS properties are used to position the columns next to each
 2. **`Float`** This positions the columns next to each other.
 3. **`Margin`** This creates a gap between the columns.
 
-![flourmult](./img/floatmult.PNG)
+![flourmult](../img/floatmult.PNG)
 
 ## **Screen Sizes**
 

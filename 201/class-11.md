@@ -64,7 +64,7 @@ The background-repeat property can have four values:
 
 if the background was not repeated you can control its Position:
 
-![Background-position](./img/Background-position.png)
+![Background-position](../img/Background-position.png)
 
 ## IMAGES ROLLOVERS & SPRITES
 
@@ -87,7 +87,7 @@ They also consider how many sites link to you. For this reason, SEO is often spl
 
 In every page of your website there are seven key places where keywords can appear in order to improve its findability.
 
-![on-page](./img/on-page.PNG)
+![on-page](../img/on-page.PNG)
 
 1. Page Title
 2. URL / Web Address
@@ -138,7 +138,7 @@ In order to put your site on the web you will need a domain name and web hosting
 # Flash, VidEo & Audio
 
 ## Timeline:
-![timeLine](./img/timeline.png)
+![timeLine](../img/timeline.png)
 
 ## HTML5 video and audio
 

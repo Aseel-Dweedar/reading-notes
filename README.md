@@ -16,14 +16,14 @@ Maybe you would like to check my profile to know more about me, [ASEEL DWEEDAR](
 |||
 |--|--|
 |1|[Reading Notes](https://aseel-dweedar.github.io/reading-notes/)|
-|2|[Growth mindset](https://aseel-dweedar.github.io/reading-notes/growth-mindset)|
-|3|[Choosing your Text Editor](https://aseel-dweedar.github.io/reading-notes/choosing-a-text-editor)|
-|4|[Get started with coding](https://aseel-dweedar.github.io/reading-notes/get-started-with-coding)|
-|5|[MARKDOWN](https://aseel-dweedar.github.io/reading-notes/Markdown)|
-|6|[HTML](https://aseel-dweedar.github.io/reading-notes/html)|
-|7|[JS - Expressions & function](https://aseel-dweedar.github.io/reading-notes/javascript)|
-|8|[JS - Comparison & Loops](https://aseel-dweedar.github.io/reading-notes/javascript2)|
-|9|[CSS](https://aseel-dweedar.github.io/reading-notes/css)|
+|2|[Growth mindset](./102/growth-mindset.md)|
+|3|[Choosing your Text Editor](./102/choosing-a-text-editor.md)|
+|4|[Get started with coding](./102/get-started-with-coding.md)|
+|5|[MARKDOWN](./102/Markdown.md)|
+|6|[HTML](./102/reading-notes/html.md)|
+|7|[JS - Expressions & function](./102/reading-notes/javascript.md)|
+|8|[JS - Comparison & Loops](./102/reading-notes/javascript2.md)|
+|9|[CSS](./102/reading-notes/css.md)|
 
 
 <br/><br/>
@@ -32,21 +32,21 @@ Maybe you would like to check my profile to know more about me, [ASEEL DWEEDAR](
 
 |||
 |--|--|
-|1|[Review ](class-01.md)|
-|2|[TEXT- HTML <br> INTRODUCING -CSS <br> Review -JS](class-02.md)|
-|3|[LISTS -HTML <br> BOXES -CSS <br> ARRAY & LOOP -JS ](class-03.md)|
-|4|[LINKS -HTML <br> LAYOUT -CSS <br> FUNCTION -JS <br> 6 Reasons for Pair Programming](class-04.md)|
-|5|[IMAGES -HTML <br> COLOR & TEXT -CSS <br> JPEG vs PNG vs GIF ](class-05.md)|
-|6|[OBJECT & (DOM) -JS <br> Problem Domain ](class-06.md)|
-|7|[TABLES -HTML <br> OBJECTS -JS ](class-07.md)|
-|8|[LAYOUT -CSS ](class-08.md)|
-|9|[FORMS -HTML <br> LIST & TABLE & FORMS -CSS <br> EVENT -JS ](class-09.md)|
-|10|[ERROR HANDLING & DEBUGGING -JS ](class-10.md)|
-|11|[IMAGES -HTML <br> Practical Information <br>  audio and video elements ](class-11.md)|
-|12|[CREATE <br> CANVAS](class-12.md)|
-|13|[LOCAL STORAGE FOR WEB APPLICATIONS](class-13.md)|
-|14|[CSS](class-14a.md)|
-|15|[What Google Learned From Its Quest to Build the Perfect Team](class-14b.md)|
+|1|[Review ](./201/class-01.md)|
+|2|[TEXT- HTML <br> INTRODUCING -CSS <br> Review -JS](./201/class-02.md)|
+|3|[LISTS -HTML <br> BOXES -CSS <br> ARRAY & LOOP -JS ](./201/class-03.md)|
+|4|[LINKS -HTML <br> LAYOUT -CSS <br> FUNCTION -JS <br> 6 Reasons for Pair Programming](./201/class-04.md)|
+|5|[IMAGES -HTML <br> COLOR & TEXT -CSS <br> JPEG vs PNG vs GIF ](./201/class-05.md)|
+|6|[OBJECT & (DOM) -JS <br> Problem Domain ](./201/class-06.md)|
+|7|[TABLES -HTML <br> OBJECTS -JS ](./201/class-07.md)|
+|8|[LAYOUT -CSS ](./201/class-08.md)|
+|9|[FORMS -HTML <br> LIST & TABLE & FORMS -CSS <br> EVENT -JS ](./201/class-09.md)|
+|10|[ERROR HANDLING & DEBUGGING -JS ](./201/class-10.md)|
+|11|[IMAGES -HTML <br> Practical Information <br>  audio and video elements ](./201/class-11.md)|
+|12|[CREATE <br> CANVAS](./201/class-12.md)|
+|13|[LOCAL STORAGE FOR WEB APPLICATIONS](./201/class-13.md)|
+|14|[CSS](./201/class-14a.md)|
+|15|[What Google Learned From Its Quest to Build the Perfect Team](./201/class-14b.md)|
 
 <br/><br/>
 

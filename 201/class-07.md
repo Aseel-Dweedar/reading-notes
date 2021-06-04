@@ -157,7 +157,7 @@ To access a property of this object, you can use dot notation, just as you can w
 
 Arrays is a special type of object. they hold a related set of key/value pairs, **BUT** the key for each value is its index number.
 
-![arrayObject](./img/arrObj.PNG)
+![arrayObject](../img/arrObj.PNG)
 
 You can **COMBINE** array and objects to create complex data structures.
 
@@ -190,7 +190,7 @@ Five of them are described as simple (or primitive) data types. The sixth is the
 
 ### GLOBAL OBJECTS: MATH OBJECT
 
-![Math](./img/math.PNG)
+![Math](../img/math.PNG)
 
 
 <hr>

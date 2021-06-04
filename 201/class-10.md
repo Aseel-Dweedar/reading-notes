@@ -1,4 +1,4 @@
-![debudding](./img/De.png)
+![debudding](../img/De.png)
 
 # ERROR HANDLING & DEBUGGING
 
@@ -92,7 +92,7 @@ evaluates to false.
 
 You can pause the execution of a script on any line using breakpoints. Then you can check the values stored in variables at that point in time.
 
-![chrome](./img/chrome1.PNG)
+![chrome](../img/chrome1.PNG)
 
 1. Select the Sources option.
 2. Select the script you are working with from the left-hand pane. The code will appear to the right.

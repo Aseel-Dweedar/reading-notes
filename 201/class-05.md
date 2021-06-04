@@ -126,7 +126,7 @@ background-color: hsla(0,100%,100%,0.5);}
 
 -**Monospace** : Every letter in a monospace font is the same width.
 
-![text](./img/font.png)
+![text](../img/font.png)
 
 ***browser usually only display the typeface if it's installed on the user's computer.***
 

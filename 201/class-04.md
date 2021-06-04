@@ -5,7 +5,7 @@
 Using the `<a>` element. Users can click on anything
 between the opening `<a>` tag and the closing `</a>` tag. specify which page you want to link to using the href attribute.
 
-![link](./img/linksNew.png)
+![link](../img/linksNew.png)
 
 ### **-Linking to Other Sites**
 
@@ -37,7 +37,7 @@ To link to an element that uses an id attribute you use the `<a>` element again,
 
 Organize your code by placing the pages for each different section of the site into a new folder. 
 
-![dircStru](./img/dircStru.png)
+![dircStru](../img/dircStru.png)
 
 
 <hr>

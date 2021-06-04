@@ -7,7 +7,7 @@ it’s a way for web pages to store named key/value pairs locally, within the cl
 
 the latest version of pretty much every browser supports HTML5 Storage.
 
-![bro](./img/brow.jpg)
+![bro](../img/brow.jpg)
 
 > From your JavaScript code, you’ll access HTML5 Storage through the localStorage object on the global window object. Before you can use it, you should **detect whether** the browser supports it.
 

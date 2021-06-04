@@ -1,4 +1,4 @@
-![meeting](./img/meeting.png)
+![meeting](../img/meeting.png)
 
 # What Google Learned From Its Quest to Build the Perfect Team
 

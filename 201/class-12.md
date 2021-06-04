@@ -1,6 +1,6 @@
 # CANVAS
 
-![canvas](./img/canvas.jpg)
+![canvas](../img/canvas.jpg)
 
 ## The `<canvas>` element
 
@@ -44,7 +44,7 @@ if (canvas.getContext) {
 **The grid** :
  HTML skeleton from the previous page had a canvas element **150 pixels wide and 150 pixels high**.The origin of the grid is positioned in the top left corner at coordinate (0,0). All elements are placed relative to this origin.
 
- ![grid](./img/canvasGrid.png)
+ ![grid](../img/canvasGrid.png)
 
 ## Drawing rectangles
 
@@ -123,11 +123,11 @@ Strokes a given text at the given (x,y) position. Optionally with a maximum widt
 
 **A fillStyle**:
 
-![fill](./img/fill.png)
+![fill](../img/fill.png)
 
 **A strokeStyle**
 
-![strok](./img/strok.png)
+![strok](../img/strok.png)
 
 # Chart.js
 

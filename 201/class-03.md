@@ -161,8 +161,6 @@ property you can apply it on **Border** :
 ### **Change Inline/Block** display
 <br>
 
-![display](https://lh3.googleusercontent.com/proxy/AjU1w7z3NJSFZLkNC83Pc7S_SNkOqFhX-X05I1to0-3SxoXVeUISYvHjvHfTQEGcyyLe2nhyXZD_8-GZu8MSltltuhn3YtxccPFXK32unRs3ff2BXoFvAQThvV7_YTu-bNW88Rw60p4vI1uqdA0U4ib-gJMr)
-
 you can hide boxes from users by using visibility property, it can take two values:
 
 **hidden** This hides the element. 

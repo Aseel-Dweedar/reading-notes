@@ -1,6 +1,6 @@
 # HOVER -CSS
 
-![hover](./img/hover.jpg)
+![hover](../img/hover.jpg)
 
 HOW YOU CAN USE IT TO WOW YOUR USERS :
 
@@ -95,7 +95,7 @@ box-shadow: inset 0 0 0 25px #53a7ea;
 # TRANSITIONS & ANIMATIONS
 
 
-![transitions](./img/tran.png)
+![transitions](../img/tran.png)
 
 Animations within CSS3 allow the appearance and behavior of an element to be altered in multiple keyframes. Transitions provide a change from one state to another, while animations can set multiple points of transition upon different keyframes.
 
@@ -167,7 +167,7 @@ animation-play-state: paused;
 # TRANSFORMS
 
 
-![transitions](./img/Transform.jpg)
+![transitions](../img/Transform.jpg)
 
 The transform property comes in two different settings, two-dimensional and three-dimensional. Each of these come with their own individual properties and values.
 

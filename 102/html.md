@@ -1,7 +1,7 @@
 # HTML
 ![html](https://cdn3.f-cdn.com/files/download/90046415/html-trick.jpg)
 
-## - Structure:
+## -Structure:
 
 **Structure** helps readers understand the content, For example, a document might start with a large heading, followed by an introduction or the most important information.
 
@@ -14,8 +14,6 @@
 The closing tag has an extra forward slash in it.
 
  **Attributes** provide additional information about the contents of an element. They appear on the opening tag of the element and are made up of two parts: a name and a value, separated by an equals sign.
-
-![att](https://lh3.googleusercontent.com/proxy/H-Av7TflLUWBulZvTfeQKBS_1w8frjox21oWBDnb2NFMeMLV50zFTLqQSMqM4kOODmC4J0yBQuHGSqf73ZhgKrHp6x8s4wiAfqV_bTXx-kpEpgnKrlHlxglqlc8-sHfY7gpOWrR9o9LhRTUEh4dyd9PolR5w0pdXopBrmN1S)
 
 > **Note that:**
 The value is the information or setting for the attribute. It should be placed in double quotes
@@ -39,7 +37,7 @@ The value is the information or setting for the attribute. It should be placed i
 
 <br>
 
-## - Extra Markup :
+# Extra Markup :
 
 * If you want to add a **comment** to your code that will not be visible in the user's browser, you can add the text between these characters: 
 
@@ -67,7 +65,7 @@ The value is the information or setting for the attribute. It should be placed i
 
 <br>
 
-## - HTML5 Layout:
+# HTML5 Layout:
 **HTML5 introduces a new set of elements that allow you to divide up the parts of a page.**
 
 * **Headers & Footers** `<header> <footer>`: The main header or footer that appears at the top or bottom of every page on the site.
@@ -94,69 +92,11 @@ set of one or more `<h1>` through `<h6>` elements so that they are treated as on
 
 <br>
 
-## - Process  &  Design
+# Process  &  Design
 
 1. Study your audience.
 2. Site Maps, organize the information into sections or pages.
 3. Create WireFrame, It shows the hierarchy of the information and how much space it might require.
 4. Study the elements of design, Organizing and prioritizing information on a page helps users understand its importance and what order to read it in.
-
-# **JS**
-
-![EXPRESSIONS](https://media.vlpt.us/images/soom/post/6d36a847-bd07-479a-9953-76cdc9e5afe2/6288755792019456.jpeg)
-
-## - WHAT IS A SICRIPT AND HOW TO WRITE IT
-A script is a series of instructions that a computer can follow to achieve a goal. 
-
-**To write a script**
-1. DEFINE THE GOAL.
-2. DESIGN THE SCRIPT.
-3. CODE EACH STEP.
-
-**To design the secript** 
-You can use flowcharts to work out how the tasks fit together. The flowcharts show the paths between each step.
-
-![flowcharts](./img/flowcharts.PNG)
-
-## - How do computers fit in the world around them
-
-**OBJECTS** In computer programming, each physical thing in the world can be represented as an object. 
-
-**CHARACTERISTICS** is properties in these objects.
-
-**WHAT DOES AN EVENT DO?**
-Programmers choose which events they respond to.
-When a specific event happens, that event can be
-used to trigger a specific section of the code.
-
-Scripts often use different events to trigger different
-types of functionality.
-So a script will state which events the programmer
-wants to respond to, and what part of the script
-should be run when each of those events occur.
-
-**WHAT DOES A METHOD DO?**
-The code for a method can contain lots of
-instructions that together represent one task.
-
-### **PUTTING IT ALL TOGETHER**
-Computers use data to create models of things in the real world. The events, methods, and properties of an object all relate to each other: Events can trigger methods, and methods can retrieve or update an object's properties. 
-
-**HOW A BROWSER SEES A WEB PAGE** r to understand how you can change the content of an HTML page using JavaScript, you need to know how a browser interprets the HTML code and applies styling to it. 
-* RECEIVE A PAGE AS HTML CODE.
-*  CREATE A MODEL OF THE PAGE AND STORE IT IN MEMORY.
-* USE A RENDERING ENGINE TO SHOW THE PAGE ON SCREEN.
-
-All major browsers use a JavaScript interpreter to translate your instructions (in JavaScript) into instructions the computer can follow. 
-
-<br>
-<hr>
-
-**Article sources**
-
-* HTML & CSS Design and Build Websites / Jon Ducket
-
-* JavaScript and jQuery Interactive / Jon Ducket
-
 
 **Go back -->** [Reading Notes](https://aseel-dweedar.github.io/reading-notes/)

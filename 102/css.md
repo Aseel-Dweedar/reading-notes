@@ -36,7 +36,7 @@ Colors are specified using predefined color names, or RGB, HEX, HSL, RGBA, HSLA 
 
 4. **Contrast** : If text is reversed out (a light color on a dark background), you can increase the height between lines and the weight of the font to make it easier to read.
 
-![contrast](./img/Contrast.PNG)
+![contrast](../img/Contrast.PNG)
 
 5. **opacity, rgba** : allows you to
 specify the opacity of an element and any of its child elements.

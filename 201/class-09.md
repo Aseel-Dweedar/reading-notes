@@ -1,5 +1,5 @@
 # Forms -HTML
-![forms](./img/Forms.png)
+![forms](../img/Forms.png)
 
 There are several types of form controls that
 you can use to collect information from visitors
@@ -70,7 +70,7 @@ You can group related form controls together inside the
 
 Validation helps ensure the user enters information in a form that the server will be able to understand when the form is submitted. 
 
-![Form Validation](./img/FormValidation.png)
+![Form Validation](../img/FormValidation.png)
 
 <br>
 
@@ -121,7 +121,7 @@ By using:
 `border-spacing: ;` Borders are detached from each
 other.
 
-![collabse](./img/tables.png)
+![collabse](../img/tables.png)
 
 # Forms -CSS
 
@@ -157,13 +157,13 @@ TRADITIONAL DOM EVENT HANDLERS:
 
 All modern browsers understand this way of creating an event handler, but you can only attach one function to each event handler.
 
-![eve](./img/eventHand.PNG)
+![eve](../img/eventHand.PNG)
 
 ## EVENT LISTENERS
 
 Event listeners are a more recent approach to handling events. They can deal with more than one function at a time but they are not supported in older browsers. 
 
-![eve2](./img/event2.PNG)
+![eve2](../img/event2.PNG)
 
 ``` js
 let  elUsername = document .getElementByid('username') ;
