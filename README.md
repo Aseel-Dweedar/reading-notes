@@ -20,10 +20,10 @@ Maybe you would like to check my profile to know more about me, [ASEEL DWEEDAR](
 |3|[Choosing your Text Editor](./102/choosing-a-text-editor.md)|
 |4|[Get started with coding](./102/get-started-with-coding.md)|
 |5|[MARKDOWN](./102/Markdown.md)|
-|6|[HTML](./102/reading-notes/html.md)|
-|7|[JS - Expressions & function](./102/reading-notes/javascript.md)|
-|8|[JS - Comparison & Loops](./102/reading-notes/javascript2.md)|
-|9|[CSS](./102/reading-notes/css.md)|
+|6|[HTML](./102/html.md)|
+|7|[JS - Expressions & function](./102/javascript.md)|
+|8|[JS - Comparison & Loops](./102/javascript2.md)|
+|9|[CSS](./102/css.md)|
 
 
 <br/><br/>
@@ -54,4 +54,4 @@ Maybe you would like to check my profile to know more about me, [ASEEL DWEEDAR](
 
 |||
 |--|--|
-|1| READING NOTE NUMBER 1|
+|1|[React and Components](./301/reactAndComponents.md)|
