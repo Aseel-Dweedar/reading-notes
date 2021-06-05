@@ -75,9 +75,12 @@ const ChildComponent = (props) => {
 
 * ### **What is the flow of props?**
 
-> NOTE: that data with props are being passed in a **uni-directional** flow. (one way from parent to child).
+> NOTE: data with props are being passed in a **uni-directional** flow. (one way from parent to child).
 
 <br>
+
+## Things I want to know more about
+how can the browser understand and execute javascript with HTML tags inside it?!
 
 <hr>
 <br>
