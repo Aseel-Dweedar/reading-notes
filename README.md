@@ -55,4 +55,4 @@ Maybe you would like to check my profile to know more about me, [ASEEL DWEEDAR](
 |||
 |--|--|
 |1|[React and Components](./301/reactAndComponents.md)|
-|2|[State and Props](./301/reactAndComponents.md)|
+|2|[State and Props](./301/StateAndProps.md)|
