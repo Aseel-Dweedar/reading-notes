@@ -1,6 +1,6 @@
 # Lists and Keys
 
-**\*What does .map() return?**
+**What does .map() return?**
 
 new array with the same length.
 
@@ -87,7 +87,7 @@ call it like other regulars functions by adding parentheses.
 <hr>
 <br>
 
-**Article sources**
+**Sources**
 
 - Lists and Keys / reactjs.org.
 - How to Use the Spread Operator (…) in JavaScript / Dr. Derek Austin .
