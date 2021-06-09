@@ -57,3 +57,4 @@ Maybe you would like to check my profile to know more about me, [ASEEL DWEEDAR](
 | 2   | [State and Props](./301/StateAndProps.md)               |
 | 3   | [Passing Functions as Props](./301/PassingFunctions.md) |
 | 4   | [React and Forms](./301/ReactAndForms.md)               |
+| 5   | [Thinking In React](./301/ThinkingInReact.md)           |
