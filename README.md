@@ -51,13 +51,14 @@ Maybe you would like to check my profile to know more about me, [ASEEL DWEEDAR](
 
 ## **Code 301 Reading Notes**
 
-|     |                                                         |
-| --- | ------------------------------------------------------- |
-| 1   | [React and Components](./301/reactAndComponents.md)     |
-| 2   | [State and Props](./301/StateAndProps.md)               |
-| 3   | [Passing Functions as Props](./301/PassingFunctions.md) |
-| 4   | [React and Forms](./301/ReactAndForms.md)               |
-| 5   | [Thinking In React](./301/ThinkingInReact.md)           |
-| 6   | [NODE.JS](./301/NODE-JS.md)                             |
-| 7   | [REST](./301/rest.md)                                   |
-| 8   | [API](./301/api.md)                                     |
+|     |                                                          |
+| --- | -------------------------------------------------------- |
+| 1   | [React and Components](./301/reactAndComponents.md)      |
+| 2   | [State and Props](./301/StateAndProps.md)                |
+| 3   | [Passing Functions as Props](./301/PassingFunctions.md)  |
+| 4   | [React and Forms](./301/ReactAndForms.md)                |
+| 5   | [Thinking In React](./301/ThinkingInReact.md)            |
+| 6   | [NODE.JS](./301/NODE-JS.md)                              |
+| 7   | [REST](./301/rest.md)                                    |
+| 8   | [API](./301/api.md)                                      |
+| 9   | [Functional Programming](./301/functionalProgramming.md) |
