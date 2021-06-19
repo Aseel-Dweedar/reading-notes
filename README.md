@@ -63,3 +63,4 @@ Maybe you would like to check my profile to know more about me, [ASEEL DWEEDAR](
 | 8   | [API](./301/api.md)                                      |
 | 9   | [Functional Programming](./301/functionalProgramming.md) |
 | 10  | [Call Stack](./301/callStack.md)                         |
+| 11  | [Authentication](./301/Authentication.md)                |
