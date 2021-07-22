@@ -74,4 +74,4 @@ Maybe you would like to check my profile to know more about me, [ASEEL DWEEDAR](
 
 |     |                  |
 | --- | ---------------- |
-| 1   | [Class 1](./401) |
+| 1   | [Java Basics](./401/JavaBasics.md) |
