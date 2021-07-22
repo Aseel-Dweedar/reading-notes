@@ -10,8 +10,7 @@ box or an inline box.
 
 Examples : `<h1> <p> <ul> <li>`
 
-
- **[inline]** boxes flow between surrounding text.
+**[inline]** boxes flow between surrounding text.
 
 Examples include: `<img> <b> <i>`
 
@@ -23,7 +22,7 @@ If one block-level element sits inside another block-level element then the oute
 
 CSS has the following **positioning** schemes that allow you to control the layout of a page:
 
-**1. Normal flow** : Every block-level element appears on a new line, causing each item to appear lower down the page than the previous one. 
+**1. Normal flow** : Every block-level element appears on a new line, causing each item to appear lower down the page than the previous one.
 
 This is the default behavior (unless you tell the browser to do something else).
 
@@ -51,7 +50,7 @@ If you want to control which element sits on top, you can use the z-index proper
 
 The float property allows you to take an element in normal flow and place it as far to the left or right of the containing element as possible. Anything else that sits inside the containing element will flow **around** the element that is floated.
 
-![flout](../img/float.png)
+![flout](../img201/float.png)
 
 > **Note** : When you use the float property, you should also use the width property to indicate how wide the floated element should be
 
@@ -67,7 +66,7 @@ The following three CSS properties are used to position the columns next to each
 2. **`Float`** This positions the columns next to each other.
 3. **`Margin`** This creates a gap between the columns.
 
-![flourmult](../img/floatmult.PNG)
+![flourmult](../img201/floatmult.PNG)
 
 ## **Screen Sizes**
 
@@ -77,9 +76,9 @@ most operating systems allow users to adjust the resolution of their screens.
 
 web designers often try to create pages of around 960-1000 pixels wide (since most users will be able to see designs this wide on their screens).
 
-* **Fixed Width Layouts** designs do not change size as the user increases or decreases the size of their browser window. Measurements tend to be given in **pixels**.
+- **Fixed Width Layouts** designs do not change size as the user increases or decreases the size of their browser window. Measurements tend to be given in **pixels**.
 
-* **Liquid Layouts**  designs stretch and contract as the user increases or decreases the size of their browser window. They tend to use **percentages**.
+- **Liquid Layouts** designs stretch and contract as the user increases or decreases the size of their browser window. They tend to use **percentages**.
 
 ## **Multiple Style Sheets** : @import , link
 
@@ -87,17 +86,17 @@ There are two ways to add multiple style sheets to a page:
 
 1. Your HTML page can link to one style sheet and that stylesheet can use the @import rule to import other style sheets.
 
-    `@import url("style.css");`
+   `@import url("style.css");`
 
 2. In the HTML you can use a separate `<link>` element for each style sheet.
 
-    `<link rel="stylesheet" href="css/styles.css"/>`
+   `<link rel="stylesheet" href="css/styles.css"/>`
 
 <hr>
 <br>
 
 **Article sources**
 
-* HTML & CSS Design and Build Websites / Jon Ducket
+- HTML & CSS Design and Build Websites / Jon Ducket
 
 **Go back -->** [Reading Notes](https://aseel-dweedar.github.io/reading-notes/)

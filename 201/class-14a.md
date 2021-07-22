@@ -1,6 +1,6 @@
 # HOVER -CSS
 
-![hover](../img/hover.jpg)
+![hover](../img201/hover.jpg)
 
 HOW YOU CAN USE IT TO WOW YOUR USERS :
 
@@ -63,7 +63,7 @@ border-radius:50%;
 ```CSS
 button:hover {
 box-shadow:
-1px 1px #53a7ea,                
+1px 1px #53a7ea,
 2px 2px #53a7ea,
 3px 3px #53a7ea;
 -webkit-transform: translateX(-5px);
@@ -94,11 +94,9 @@ box-shadow: inset 0 0 0 25px #53a7ea;
 
 # TRANSITIONS & ANIMATIONS
 
-
-![transitions](../img/tran.png)
+![transitions](../img201/tran.png)
 
 Animations within CSS3 allow the appearance and behavior of an element to be altered in multiple keyframes. Transitions provide a change from one state to another, while animations can set multiple points of transition upon different keyframes.
-
 
 ### **TRANSITIONS**
 
@@ -110,16 +108,16 @@ There are four transition related properties in total, including :
 
 > It is important to note, not all properties may be transitioned, only properties that have an identifiable halfway point.
 
-2. Transition Duration: The duration in which a transition takes place is set using the transition-duration property. 
+2. Transition Duration: The duration in which a transition takes place is set using the transition-duration property.
 
 `transition-duration: .2s, 1s;`
 
 3. Transition Timing: used to set the speed in which a transition will move. Knowing the duration from the transition-duration.
-The linear keyword value identifies a transition moving in a constant speed from one state to another. The ease-in value identifies a transition that starts slowly and speeds up throughout the transition, while the ease-out value identifies a transition that starts quickly and slows down throughout the transition. The ease-in-out value identifies a transition that starts slowly, speeds up in the middle, then slows down again before ending.
+   The linear keyword value identifies a transition moving in a constant speed from one state to another. The ease-in value identifies a transition that starts slowly and speeds up throughout the transition, while the ease-out value identifies a transition that starts quickly and slows down throughout the transition. The ease-in-out value identifies a transition that starts slowly, speeds up in the middle, then slows down again before ending.
 
 `transition-timing-function: linear, ease-in;`
 
-4. Transition Delay: set a delay with the transition-delay property. 
+4. Transition Delay: set a delay with the transition-delay property.
 
 `transition-delay: 0s, 1s;`
 
@@ -135,7 +133,7 @@ To set multiple points at which an element should undergo a transition, use the 
 
 `animation-duration: 2s;`
 
-3. Animation Direction:  declare the direction an animation completes using the animation-direction property. 
+3. Animation Direction: declare the direction an animation completes using the animation-direction property.
 
 `animation-direction: alternate;`
 
@@ -151,7 +149,7 @@ animation-play-state: paused;
 
 `animation-fill-mode: forwards;`
 
-6. Shorthand Animations: write out the animations in a shorthand format. 
+6. Shorthand Animations: write out the animations in a shorthand format.
 
 ```CSS
 .stage:hover .box {
@@ -166,8 +164,7 @@ animation-play-state: paused;
 
 # TRANSFORMS
 
-
-![transitions](../img/Transform.jpg)
+![transitions](../img201/Transform.jpg)
 
 The transform property comes in two different settings, two-dimensional and three-dimensional. Each of these come with their own individual properties and values.
 
@@ -179,7 +176,7 @@ Two-dimensional transforms work on the x and y axes.
 
 `transform: rotate(20deg);`
 
-2. 2D Scale:  allows you to change the appeared size of an element.
+2. 2D Scale: allows you to change the appeared size of an element.
 
 `transform: scale(.75);`
 
@@ -189,7 +186,7 @@ Two-dimensional transforms work on the x and y axes.
 
 4. 2D Skew: to distort elements on the horizontal axis, vertical axis, or both.
 
-`  transform: skewY(-20deg);`
+` transform: skewY(-20deg);`
 
 **Combining Transforms**
 
@@ -199,39 +196,36 @@ Two-dimensional transforms work on the x and y axes.
 
 5. Transform Origin: the default transform origin is the dead center of an element, both 50% horizontally and 50% vertically. To change this default origin position the transform-origin property may be used.
 
-`  transform-origin: 20px 50px;`
+` transform-origin: 20px 50px;`
 
-6. Perspective:  transforming one element from a single to perspective. When you want to transform a group of elements all with the same perspective, or vanishing point, apply the perspective property to their parent element.
+6. Perspective: transforming one element from a single to perspective. When you want to transform a group of elements all with the same perspective, or vanishing point, apply the perspective property to their parent element.
 
-`  transform: perspective(200px) rotateX(45deg);`
+` transform: perspective(200px) rotateX(45deg);`
 
 ### **3D Transforms**
 
-1. 3D Rotate:  rotate an element around any axes. To do so, we use three new transform values, including **rotateX, rotateY, and rotateZ.**
+1. 3D Rotate: rotate an element around any axes. To do so, we use three new transform values, including **rotateX, rotateY, and rotateZ.**
 
-`  transform: perspective(200px) rotateZ(45deg);`
+` transform: perspective(200px) rotateZ(45deg);`
 
 2. 3D Scale: elements may be scaled on the z axis.
 
-`  transform: perspective(200px) scaleZ(.25) rotateX(45deg);`
+` transform: perspective(200px) scaleZ(.25) rotateX(45deg);`
 
 3. 3D Translate: Elements may be translated on the z axis.
 
-`  transform: perspective(200px) translateZ(50px);`
-
+` transform: perspective(200px) translateZ(50px);`
 
 <hr>
 <br>
 
 **Article sources**
 
-* 8 SIMPLE CSS3 TRANSITIONS THAT WILL WOW YOUR USERS
-/ SARA VIEIRA
+- 8 SIMPLE CSS3 TRANSITIONS THAT WILL WOW YOUR USERS
+  / SARA VIEIRA
 
-* Transitions & Animations / Learn to Code Advanced HTML & CSS
+- Transitions & Animations / Learn to Code Advanced HTML & CSS
 
-* Transforms  / Learn to Code Advanced HTML & CSS
-
-
+- Transforms / Learn to Code Advanced HTML & CSS
 
 **Go back -->** [Reading Notes](https://aseel-dweedar.github.io/reading-notes/)

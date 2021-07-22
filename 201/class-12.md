@@ -1,6 +1,6 @@
 # CANVAS
 
-![canvas](../img/canvas.jpg)
+![canvas](../img201/canvas.jpg)
 
 ## The `<canvas>` element
 
@@ -8,13 +8,13 @@ The HTML `<canvas>` element is used to draw graphics, on the fly, via JavaScript
 
 It has only two attributes, **width** and **height**. These are both optional and can also be set using DOM properties.
 
- > When no width and height attributes are specified, the canvas will initially be 300 pixels wide and 150 pixels high.
+> When no width and height attributes are specified, the canvas will initially be 300 pixels wide and 150 pixels high.
 
 The **id attribute** isn't specific to the `<canvas>` element but is one of the global HTML attributes which can be applied to any HTML element. It is always a good idea to supply an id because this makes it much easier to identify it in a script.
 
 ## Fallback content
 
-The `<canvas>` element differs from an `<img>` tag in that, like for `<video>, <audio>, or <picture>` elements,  just insert the alternate content inside the `<canvas>` element. it also **Required `</canvas>` tag.**
+The `<canvas>` element differs from an `<img>` tag in that, like for `<video>, <audio>, or <picture>` elements, just insert the alternate content inside the `<canvas>` element. it also **Required `</canvas>` tag.**
 
 ## The rendering context
 
@@ -22,14 +22,14 @@ The `<canvas>` element creates a fixed-size drawing surface that exposes one or 
 
 The canvas is initially blank. To display something, a script first needs to access the rendering context and draw on it. has a method called **`getContext()`**, used to obtain the rendering context and its drawing functions.
 
-``` JS
+```JS
 lwt canvas = document.getElementById('test');
 let x = canvas.getContext('2d');
 ```
 
 ## Checking for support
 
-``` JS
+```JS
 lwt canvas = document.getElementById('test');
 if (canvas.getContext) {
     let x = canvas.getContext('2d');
@@ -42,17 +42,17 @@ if (canvas.getContext) {
 ## Drawing shapes with canvas
 
 **The grid** :
- HTML skeleton from the previous page had a canvas element **150 pixels wide and 150 pixels high**.The origin of the grid is positioned in the top left corner at coordinate (0,0). All elements are placed relative to this origin.
+HTML skeleton from the previous page had a canvas element **150 pixels wide and 150 pixels high**.The origin of the grid is positioned in the top left corner at coordinate (0,0). All elements are placed relative to this origin.
 
- ![grid](../img/canvasGrid.png)
+![grid](../img201/canvasGrid.png)
 
 ## Drawing rectangles
 
- There are three functions that draw rectangles on the canvas:
+There are three functions that draw rectangles on the canvas:
 
-* `fillRect(x, y, width, height)` : Draws a filled rectangle.
-* `strokeRect(x, y, width, height)` : Draws a rectangular outline.
-* `clearRect(x, y, width, height)` : Clears the specified rectangular area, making it fully transparent.
+- `fillRect(x, y, width, height)` : Draws a filled rectangle.
+- `strokeRect(x, y, width, height)` : Draws a rectangular outline.
+- `clearRect(x, y, width, height)` : Clears the specified rectangular area, making it fully transparent.
 
 ## Drawing paths
 
@@ -114,20 +114,20 @@ Strokes a given text at the given (x,y) position. Optionally with a maximum widt
 
 **Styling text**
 
-* font = value
-* textAlign = value
-* textBaseline = value
-* direction = value
+- font = value
+- textAlign = value
+- textBaseline = value
+- direction = value
 
 ## Applying styles and colors
 
 **A fillStyle**:
 
-![fill](../img/fill.png)
+![fill](../img201/fill.png)
 
 **A strokeStyle**
 
-![strok](../img/strok.png)
+![strok](../img201/strok.png)
 
 # Chart.js
 
@@ -139,13 +139,13 @@ start with charts is with **Chart.js**, a JavaScript plugin that uses HTML5’s 
 
 1. create a canvas element in HTML in which Chart.js can draw the chart.
 
-``` HTML
+```HTML
 <canvas id="buy" width="500" height="300"></canvas>
 ```
 
 2. write a script that will retrieve the context of the canvas.
 
-``` HTML
+```HTML
 <script>
     let buy = document.getElementById('buy').getContext('2d');
     new Chart(buy).Line(buyData);
@@ -154,7 +154,7 @@ start with charts is with **Chart.js**, a JavaScript plugin that uses HTML5’s 
 
 3. Inside the same script, create the data.
 
-``` JS
+```JS
 var buyData = {
  labels : ["January","February","March","April","May","June"],
  datasets : [
@@ -169,27 +169,25 @@ var buyData = {
 }
 ```
 
-You can also drow : 
+You can also drow :
 
-* Drawing a pie chart
+- Drawing a pie chart
 
-* Drawing a bar chart
-
-
+- Drawing a bar chart
 
 <hr>
 <br>
 
 **Article sources**
 
-* Basic usage of canvas / MDN
+- Basic usage of canvas / MDN
 
-* Drawing shapes with canvas / MDN
+- Drawing shapes with canvas / MDN
 
-* Drawing text / MDN
+- Drawing text / MDN
 
-* Applying styles and colors / MDN
+- Applying styles and colors / MDN
 
-* EASILY CREATE STUNNING ANIMATED CHARTS WITH CHART.JS / SARA VIEIRA
+- EASILY CREATE STUNNING ANIMATED CHARTS WITH CHART.JS / SARA VIEIRA
 
 **Go back -->** [Reading Notes](https://aseel-dweedar.github.io/reading-notes/)

@@ -3,17 +3,19 @@
 ### Controlling sizes of images in CSS :
 
 By using **"width, height"** property, with **percentage** or **Pixels** :
-``` CSS
+
+```CSS
 img {
 width: 100px;
 height: 100px;
-} 
+}
 
 img {
 width: 25%;
 height: 30%;
-} 
+}
 ```
+
 ### Aligning images Using CSS :
 
 You can use float property move an image to the left or the right .
@@ -31,31 +33,31 @@ By default, images are inline elements. In order to center an image, it should b
 
 place an image behind any HTML element:
 
-``` CSS
+```CSS
 body {
 background-image: url("images/backgrounds.png");
 }
 ```
+
 ### Repeating Images
 
 The background-repeat property can have four values:
 
 1. repeat : The background image is repeated both horizontally and vertically .
 
-    `background-repeat: repeat;`
+   `background-repeat: repeat;`
 
 2. repeat-x : The image is repeated horizontally only.
 
-    `background-repeat: repeat-x;`
+   `background-repeat: repeat-x;`
 
 3. repeat-y : The image is repeated vertically only.
 
-    `background-repeat: repeat-y;`
+   `background-repeat: repeat-y;`
 
 4. no-repeat : The image is only shown once.
 
-    `background-repeat: no-repeat;`
-
+   `background-repeat: no-repeat;`
 
 **FIXED** The background image stays in the same position on the page. **SCROLL** The background image moves up and down as the user scrolls up and down the page.
 `background-attachment: fixed;` OR `background-attachment: scroll`
@@ -64,14 +66,14 @@ The background-repeat property can have four values:
 
 if the background was not repeated you can control its Position:
 
-![Background-position](../img/Background-position.png)
+![Background-position](../img201/Background-position.png)
 
 ## IMAGES ROLLOVERS & SPRITES
 
-To create a link or button that changes to a second style when a user moves their mouse over it (known as a **ROLLOVER**) and many other style when they click on it, 
+To create a link or button that changes to a second style when a user moves their mouse over it (known as a **ROLLOVER**) and many other style when they click on it,
 This is achieved by setting a background image for the link or button that has other different styles of the same button (but only allows enough space to show one of them at a time).
 
-When a single image is used for several different parts of an interface, it is known as a **SPRITE**. 
+When a single image is used for several different parts of an interface, it is known as a **SPRITE**.
 
 <br>
 
@@ -87,7 +89,7 @@ They also consider how many sites link to you. For this reason, SEO is often spl
 
 In every page of your website there are seven key places where keywords can appear in order to improve its findability.
 
-![on-page](../img/on-page.PNG)
+![on-page](../img201/on-page.PNG)
 
 1. Page Title
 2. URL / Web Address
@@ -97,11 +99,10 @@ In every page of your website there are seven key places where keywords can appe
 6. Image Alt Text
 7. Page Descriptions
 
-
 **How to Identify Keywords and Phrases**
 
 1: **Brainstorm** : List down the words that
-someone might type into Google to find your site. 
+someone might type into Google to find your site.
 
 2: **Organize** : Group the keywords into separate lists for the different sections or categories of your website.
 
@@ -110,6 +111,7 @@ someone might type into Google to find your site.
 4: **Compare** :Some of the keyword research sites can tell you how many people have searched for a specific keyword to help you know how much competition those terms have.
 
 5: **Refine** : pick which keywords you will focus on.
+
 > KEYWORDS should always be the ones that are most relevant to each section of your site.
 
 6: **Map** : Pick 3-5 keywords or phrases that map to each page of your website and use these as the keywords for each page.
@@ -118,10 +120,11 @@ someone might type into Google to find your site.
 
 As soon as people start coming to your site, you can start Learning about your Visitors:
 <b>
-* How Many People Are Coming to Your Site?
-* What Are Your Visitors Looking At?
-* Where Are Your Visitors Coming From?
-</b>
+
+- How Many People Are Coming to Your Site?
+- What Are Your Visitors Looking At?
+- Where Are Your Visitors Coming From?
+  </b>
 
 One of the best tools for doing this is a free service offered by Google called Google Analytics.
 
@@ -129,33 +132,35 @@ One of the best tools for doing this is a free service offered by Google called 
 
 In order to put your site on the web you will need a domain name and web hosting.
 
-|**DOMAIN NAMES** | **WEB HOSTING**|
-|--|--|
-|your web address|upload your site to a web server|
+| **DOMAIN NAMES** | **WEB HOSTING**                  |
+| ---------------- | -------------------------------- |
+| your web address | upload your site to a web server |
 
 <br>
 
 # Flash, VidEo & Audio
 
 ## Timeline:
-![timeLine](../img/timeline.png)
+
+![timeLine](../img201/timeline.png)
 
 ## HTML5 video and audio
 
 The `<video>` and `<audio>` elements allow us to embed video and audio into web pages.
 
-``` HTML
+```HTML
 <video controls>
   <source src="Play.mp4" type="video/mp4">
 </video>
 ```
+
 the most interesting attribute is **CONTROLS**, If this attribute is present, the browser will offer controls to allow the user to control video playback, including volume, seeking, and pause/resume playback.
 
 ## The HTMLMediaElement API
 
 provides features to allow you to control video and audio players programmatically. This interface is available to both `<audio>` and `<video>` elements.
 
-``` html
+```html
 <button class="play" data-icon="P" aria-label="play pause toggle"></button>
 
 <button class="stop" data-icon="S" aria-label="stop"></button>
@@ -173,19 +178,19 @@ and an `aria-label` attribute to provide an understandable description of each b
 
 **controls styling tips :**
 
-* visibility of the custom controls set to hidden. In  JavaScript, set the controls to visible, and remove the controls attribute from the `<video>` element. if the JavaScript doesn't load for some reason, users can still use the video with the native controls.
+- visibility of the custom controls set to hidden. In JavaScript, set the controls to visible, and remove the controls attribute from the `<video>` element. if the JavaScript doesn't load for some reason, users can still use the video with the native controls.
 
-    `visibility: hidden;`
+  `visibility: hidden;`
 
-* give the controls an opacity of 0.5 by default, so that they are less distracting. Only when you are hovering/focusing over the player do the controls appear at full opacity.
+- give the controls an opacity of 0.5 by default, so that they are less distracting. Only when you are hovering/focusing over the player do the controls appear at full opacity.
 
-    `opacity: 0.5;`
+  `opacity: 0.5;`
 
 **button icons tips :**
 
-* We use the `before selector` to display the content before each `<button>` element.
+- We use the `before selector` to display the content before each `<button>` element.
 
-* Using Icon fonts to cutting down on HTTP requests because you don't need to download those icons as image files, great scalability.
+- Using Icon fonts to cutting down on HTTP requests because you don't need to download those icons as image files, great scalability.
 
 ## Implementing the JavaScript :
 
@@ -193,12 +198,13 @@ wire up all the buttons to get the controls working. By these steps:
 
 1. creating constants to hold references to all the objects we want to manipulate:
 
-``` JS
+```JS
 document.querySelector('Class nane');
 ```
+
 2. remove the default browser controls from the video, and make the custom controls visible.
 
-``` JS
+```JS
 media.removeAttribute('controls');
 controls.style.visibility = 'visible';
 ```
@@ -207,7 +213,7 @@ controls.style.visibility = 'visible';
 
 Ex : **to Playing and pausing the video**
 
-``` JS
+```JS
 play.addEventListener('click', pPmedia);
 
 
@@ -222,16 +228,15 @@ function pPmedia() {
 }
 ```
 
-***`<audio>` elements have the same HTMLMediaElement functionality available to them, you could easily get this player to work for an `<audio>` element too.***
-
+**_`<audio>` elements have the same HTMLMediaElement functionality available to them, you could easily get this player to work for an `<audio>` element too._**
 
 <hr>
 <br>
 
 **Article sources**
 
-* HTML & CSS Design and Build Websites / Jon Ducket
+- HTML & CSS Design and Build Websites / Jon Ducket
 
-* Video and Audio APIs / MDN Web Cocs
+- Video and Audio APIs / MDN Web Cocs
 
 **Go back -->** [Reading Notes](https://aseel-dweedar.github.io/reading-notes/)
