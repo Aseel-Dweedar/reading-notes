@@ -72,6 +72,7 @@ Maybe you would like to check my profile to know more about me, [ASEEL DWEEDAR](
 
 ## **Code 401 - Advanced Software Development**
 
-|     |                  |
-| --- | ---------------- |
-| 1   | [Java Basics](./401/JavaBasics.md) |
+|     |                                                       |
+| --- | ----------------------------------------------------- |
+| 1   | [Java Basics](./401/JavaBasics.md)                    |
+| 2   | [Arrays, Loops, Imports](./401/ArraysLoopsImports.md) |
