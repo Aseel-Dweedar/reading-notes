@@ -76,3 +76,4 @@ Maybe you would like to check my profile to know more about me, [ASEEL DWEEDAR](
 | --- | ----------------------------------------------------- |
 | 1   | [Java Basics](./401/JavaBasics.md)                    |
 | 2   | [Arrays, Loops, Imports](./401/ArraysLoopsImports.md) |
+| 3   | [Maps, primitives, File I/O](./401/MapsPrimitives.md) |
