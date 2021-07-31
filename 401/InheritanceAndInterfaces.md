@@ -1,4 +1,4 @@
-# Object-Oriented Programming Concepts
+# Inheritance And Interfaces
 
 ### **[Object]**
 
