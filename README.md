@@ -79,3 +79,4 @@ Maybe you would like to check my profile to know more about me, [ASEEL DWEEDAR](
 | 3   | [Maps, primitives, File I/O](./401/MapsPrimitives.md)                                             |
 | 4   | [Object Oriented, Classes, <br>Binary, Decimal and Hexadecimal Numbers ](./401/objectOriented.md) |
 | 5   | [Linked Lists ](./401/linkedLists.md)                                                             |
+| 6   | [Inheritance And Interfaces](./401/InheritanceAndInterfaces.md)                                   |
