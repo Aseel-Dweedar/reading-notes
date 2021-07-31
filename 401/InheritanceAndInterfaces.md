@@ -125,6 +125,6 @@ A package is a namespace that organizes a set of related classes and interfaces.
 
 - Object and Class / Java Documentation.
 
-- Binary, Decimal and Hexadecimal Numbers / mathsisfun.
+- Interfaces and Inheritance / Java Documentation.
 
 **Go back -->** [Reading Notes](https://aseel-dweedar.github.io/reading-notes/)
