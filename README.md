@@ -80,4 +80,5 @@ Maybe you would like to check my profile to know more about me, [ASEEL DWEEDAR](
 | 4   | [Object Oriented, Classes, <br>Binary, Decimal and Hexadecimal Numbers ](./401/objectOriented.md) |
 | 5   | [Linked Lists ](./401/linkedLists.md)                                                             |
 | 6   | [Inheritance And Interfaces](./401/InheritanceAndInterfaces.md)                                   |
-| 7   | [OO Design.md](./401/OODesign.md)                                                                 |
+| 7   | [OO Design](./401/OODesign.md)                                                                    |
+| 8   | [WRRC and Java](./401/WRRCandJava.md)                                                             |
