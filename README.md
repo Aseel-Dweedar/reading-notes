@@ -82,3 +82,4 @@ Maybe you would like to check my profile to know more about me, [ASEEL DWEEDAR](
 | 6   | [Inheritance And Interfaces](./401/InheritanceAndInterfaces.md)                                   |
 | 7   | [OO Design](./401/OODesign.md)                                                                    |
 | 8   | [WRRC and Java](./401/WRRCandJava.md)                                                             |
+| 9   | [Stacks And Queues](./401/StacksAndQueues.md)                                                     |
