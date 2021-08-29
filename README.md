@@ -92,3 +92,4 @@ Maybe you would like to check my profile to know more about me, [ASEEL DWEEDAR](
 | 17  | [Web App Security](./401/WebAppSecurity.md)                                                       |
 | 18  | [Spring and Sockets](./401/Sockets.md)                                                            |
 | 19  | [Android Fundamentals](./401/AndroidFundamentals.md)                                              |
+| 20  | [Intents, Activities, and SharedPreferences](./401/Intents-Activities-SharedPreferences.md)       |
