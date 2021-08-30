@@ -93,3 +93,4 @@ Maybe you would like to check my profile to know more about me, [ASEEL DWEEDAR](
 | 18  | [Spring and Sockets](./401/Sockets.md)                                                            |
 | 19  | [Android Fundamentals](./401/AndroidFundamentals.md)                                              |
 | 20  | [Intents, Activities, and SharedPreferences](./401/Intents-Activities-SharedPreferences.md)       |
+| 21  | [RecyclerView](./401/RecyclerView.md)                                                             |
