@@ -95,3 +95,4 @@ Maybe you would like to check my profile to know more about me, [ASEEL DWEEDAR](
 | 20  | [Intents, Activities, and SharedPreferences](./401/Intents-Activities-SharedPreferences.md)       |
 | 21  | [RecyclerView](./401/RecyclerView.md)                                                             |
 | 22  | [Room](./401/Room.md)                                                                             |
+| 23  | [Hashtables](./401/Hashtables.md)                                                                 |
