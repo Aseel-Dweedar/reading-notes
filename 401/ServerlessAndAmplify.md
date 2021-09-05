@@ -65,3 +65,16 @@ AWS Amplify is a set of tools and services that can be used together or on their
 The GraphQL Transform provides a simple to use abstraction that helps you quickly create backends for your web and mobile applications on AWS.
 
 The GraphQL Transform simplifies the process of developing, deploying, and maintaining GraphQL APIs. With it, you define your API using the GraphQL Schema Definition Language (SDL) and can then use automation to transform it into a fully descriptive cloudformation template that implements the spec.
+
+<hr>
+<br>
+
+**Sources**
+
+- Building Serverless Contact Form For Static Websites / Faizan Bashir.
+
+- AWS Amplify / amazon.
+
+- Amplify CLI / Amplify Docs.
+
+**Go back -->** [Reading Notes](https://aseel-dweedar.github.io/reading-notes/)
