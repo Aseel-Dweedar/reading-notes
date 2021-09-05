@@ -97,3 +97,4 @@ Maybe you would like to check my profile to know more about me, [ASEEL DWEEDAR](
 | 22  | [Room](./401/Room.md)                                                                             |
 | 23  | [Hashtables](./401/Hashtables.md)                                                                 |
 | 24  | [Espresso](./401/Espresso.md)                                                                     |
+| 25  | [Serverless and Amplify](./401/ServerlessAndAmplify.md)                                           |
