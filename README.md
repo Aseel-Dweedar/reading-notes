@@ -98,3 +98,4 @@ Maybe you would like to check my profile to know more about me, [ASEEL DWEEDAR](
 | 23  | [Hashtables](./401/Hashtables.md)                                                                 |
 | 24  | [Espresso](./401/Espresso.md)                                                                     |
 | 25  | [Serverless and Amplify](./401/ServerlessAndAmplify.md)                                           |
+| 26  | [GraphQL @connection](./401/GraphQLconnection.md)                                                 |
