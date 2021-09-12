@@ -100,3 +100,4 @@ Maybe you would like to check my profile to know more about me, [ASEEL DWEEDAR](
 | 25  | [Serverless and Amplify](./401/ServerlessAndAmplify.md)                                           |
 | 26  | [GraphQL @connection](./401/GraphQLconnection.md)                                                 |
 | 26  | [Monetization](./401/Monetization.md)                                                             |
+| 27  | [Graphs](./401/Graphs.md)                                                                         |
