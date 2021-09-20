@@ -105,3 +105,4 @@ Maybe you would like to check my profile to know more about me, [ASEEL DWEEDAR](
 | 29  | [S3](./401/S3.md)                                                                                 |
 | 30  | [Notifications](./401/Notifications.md)                                                           |
 | 31  | [Intent Filters](./401/IntentFilters.md)                                                          |
+| 32  | [Location](./401/Location.md)                                                                     |
