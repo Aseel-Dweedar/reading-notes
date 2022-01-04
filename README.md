@@ -106,3 +106,15 @@ Maybe you would like to check my profile to know more about me, [ASEEL DWEEDAR](
 | 30  | [Notifications](./401/Notifications.md)                                                           |
 | 31  | [Intent Filters](./401/IntentFilters.md)                                                          |
 | 32  | [Location](./401/Location.md)                                                                     |
+
+
+
+## **Blogs**
+
+[README](./blogs/README.md)
+
+|     |                                                                                                   |
+| --- | ----------------------------------------------------- |
+| 1   | [Insertion Sort](./blogs/BLOG-Insertion.md)                                                                |
+| 2   | [Quick Sort](./blogs/BLOG-quick.md)                                             |
+| 3   | [Merge Sort](./blogs/BLOG-Merge.md)                                             |
